@@ -2,7 +2,7 @@ This GitHub organisation holds all application code for modules used in the Red 
 
 The Backstage catalog data, such as Users, Groups, Templates and other Backstage entities used in the workshops is stored here:
 
-https://github.com/orgs/rh-cloud-arch-workshops-entities/repositories
+https://github.com/rh-cloud-arch-workshops-entities
 
 
 Container Images are stored here:
