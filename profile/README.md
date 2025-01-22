@@ -8,3 +8,38 @@ This GitHub organisation holds all application code for modules used in the Red 
 Container Images are stored here:
 
 https://quay.io/organization/cloud-architecture-workshop 
+
+= Cloud Native Architectures Workshop
+
+A hands-on workshop where participants will learn how to leverage Red Hat OpenShift and Application Services to design, develop and deploy modern cloud-native applications, based on real life use cases.
+
+== The Modules:
+
+NOTE: The content below are github pages rendering of the workshop's content text based, and do not have a backing application or workshop running. 
+
+* *Introduction to Cloud Native Architectures workshop*: An intro to the workshop setup using GitOps, ArgoCD and  building an event streaming app
+** https://rh-cloud-architecture-workshop.github.io/showroom/modules/globex-intro.html[View Workshop Intro^] 
+
+* *Launch new channels using Contract-First approach*: Learn how a contract-first API approach provides the right framework to launch new channels securely
+** https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-apim-intro.html[View Module Intro ^] | https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-apim-instructions.html[View Module Instructions^]
+
+* *Build new functionality with Change Data Capture*: Build new functionality with change data capture without touching existing code
+** https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-cdc-intro.html[View Module Intro ^] | https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-cdc-instructions.html[View Module Instructions^]
+
+* *Build a multi-channel support service for Globex customers*:  Build a pluggable and extensible system by integrating different systems through well-established integration patterns 
+** https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-camel-intro.html[View Module Intro ^] | https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-camel-instructions.html[View Module Instructions^]
+
+* *Building a secure service network with Red Hat Service Interconnect*: Build a service network to connect disparate services across cloud and datacenter boundaries
+** https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-skupper-intro.html[View Module Intro ^] | https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-skupper-instructions.html[View Module Instructions^]
+
+* *Event driven intelligent applications with Serverless Knative Eventing*: Use serverless technology to build an intelligent event-driven application
+** https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-serverless-intro.html[View Module Intro ^] | https://rh-cloud-architecture-workshop.github.io/showroom/modules/module-serverless-instructions.html[View Module Instructions^]
+
+
+== Key Takeaways:
+
+* *Value of OpenShift application platform*: Learn how OpenShift application platform technologies is the ideal platform to build cloud native applications for a variety of use cases 
+
+* *Accelerate innovation*: Accelerate rolling out new use cases, increase developer productivity resulting in faster innovation and shorter time to market
+
+* *Technical best practices*: Learn essential techniques and best practices around app connectivity, APIs, streaming, event-driven architectures and more to enable AI initiatives
