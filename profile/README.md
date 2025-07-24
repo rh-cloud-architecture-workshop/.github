@@ -41,4 +41,4 @@ _**NOTE**: The content below are github pages rendering of the workshop's conten
 
 - **Accelerate innovation**: Accelerate rolling out new use cases, increase developer productivity resulting in faster innovation and shorter time to market
 
-- *Technical best practices**: Learn essential techniques and best practices around app connectivity, APIs, streaming, event-driven architectures and more to enable AI initiatives
+- **Technical best practices**: Learn essential techniques and best practices around app connectivity, APIs, streaming, event-driven architectures and more to enable AI initiatives
