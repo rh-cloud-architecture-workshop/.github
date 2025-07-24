@@ -11,6 +11,8 @@ This workshop consists of a number different modules, each highlighting a partic
 
 ## The Modules:
 
+<img width="1031" height="588" alt="cna-modules" src="https://github.com/user-attachments/assets/ae2bc6ec-0c5c-4c28-961d-de05a2bd2fb6" />
+
 _**NOTE**: The content below are github pages rendering of the workshop's content text based, and do not have a backing application or workshop running._
 
 - **Introduction to Cloud Native Architectures workshop**: An intro to the workshop setup using GitOps, ArgoCD and  building an event streaming app
